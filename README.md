@@ -1,3 +1,5 @@
+
+
 # Schoolmanagement
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
@@ -42,7 +44,7 @@ Admin can announce notice also.
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
-
+``` sudo apt install python3-dev default-libmysqlclient-dev ```
 ``` python -m pip install -r requirements.txt ```
 
 
